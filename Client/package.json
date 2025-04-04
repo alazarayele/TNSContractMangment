@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@mui/icons-material": "^7.0.1",
+    "@mui/material": "^7.0.1",
+    "axios": "^1.8.4",
+    "react-router-dom": "^7.4.1",
+    "tailwindcss": "^4.1.2"
+  }
+}
